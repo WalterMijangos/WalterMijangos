@@ -1,4 +1,3 @@
-## Hi, Everyone👋
 # Hi everyone 👋
 
 I'm a student at Universidad San Pablo de Guatemala, studying Systems Engineering.
