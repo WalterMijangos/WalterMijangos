@@ -30,7 +30,7 @@ I also use AI to get ideas about code structure, but I write all the code myself
 
 ## 🌐 Languages
 
-* English (learning)
+* English Level B1 (learning)
 * Japanese (learning)
 * Korean (learning)
 
